@@ -1,6 +1,4 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 # Зыков Степан. Портфолио
 
 # [Проект 1: Восстановление золота из руды](https://github.com/stepan-zykov/gold_recovery)
