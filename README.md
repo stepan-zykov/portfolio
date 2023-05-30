@@ -1,3 +1,4 @@
+`theme: Architect`
 # Зыков Степан. Портфолио
 
 # [Проект 1: Восстановление золота из руды](https://github.com/stepan-zykov/gold_recovery)
