@@ -1,5 +1,11 @@
-
 # Зыков Степан. Портфолио
+
+# [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
+Решение задачи хакатона Цифрогаз 2024
+
+# [Sign Language Detection](https://github.com/stepan-zykov/Sign_Language_Detection)
+Learning project based on:
+[Nicholas Renotte. Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro)
 
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
 В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
