@@ -3,7 +3,7 @@
 # [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
 Решение задачи хакатона Цифрогаз 2024
 
-# [Boston_house_pricing_prediction](https://github.com/stepan-zykov/Boston_house_pricing)
+# [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
 Learning how to deploy ML projects: Flask, docker, GitHub Actions.
 [Krish Naik. End to end ML project](https://www.youtube.com/watch?v=MJ1vWb1rGwM&t=6786s)
 
