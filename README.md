@@ -3,6 +3,10 @@
 # [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
 Решение задачи хакатона Цифрогаз 2024
 
+# [Boston_house_pricing_prediction](https://github.com/stepan-zykov/Boston_house_pricing)
+Learning how to deploy ML projects: Flask, docker, GitHub Actions.
+[Krish Naik. End to end ML project]([https://www.youtube.com/watch?v=doDUihpj6ro](https://www.youtube.com/watch?v=MJ1vWb1rGwM&t=6786s))
+
 # [Sign Language Detection](https://github.com/stepan-zykov/Sign_Language_Detection)
 Learning project based on:
 [Nicholas Renotte. Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro)
