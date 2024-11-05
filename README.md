@@ -11,7 +11,7 @@ Learning how to deploy ML projects: Flask, docker, GitHub Actions.
 Learning project based on:
 [Nicholas Renotte. Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro)
 
-# FastAPI Blog posting web service
+# [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
 Learning project based on [this video](https://www.youtube.com/watch?v=7t2alSnE2-I)
 
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
