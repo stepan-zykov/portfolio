@@ -12,7 +12,7 @@ Learning project based on:
 [Nicholas Renotte. Sign Language Detection](https://www.youtube.com/watch?v=doDUihpj6ro)
 
 # [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
-Learning project based on [this video](https://www.youtube.com/watch?v=7t2alSnE2-I)
+Learning project based on [Bitfumes' course](https://www.youtube.com/watch?v=7t2alSnE2-I)
 
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
 В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
