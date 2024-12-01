@@ -3,6 +3,10 @@
 # [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
 Решение задачи хакатона Цифрогаз 2024
 
+# [RAG agent]([https://github.com/stepan-zykov/Gazprom-Hackathon](https://github.com/stepan-zykov/RAG-with-local-LLM))
+Создание (RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
+[Основан на примере из документации LangGraph](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag_local/)
+
 # [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
 Learning how to deploy ML projects: Flask, docker, GitHub Actions.
 [Krish Naik. End to end ML project](https://www.youtube.com/watch?v=MJ1vWb1rGwM&t=6786s)
