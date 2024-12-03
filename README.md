@@ -1,4 +1,4 @@
-# Зыков Степан. Портфолио
+# Зыков Степан. Учебные проекты
 
 # [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
 Решение задачи хакатона Цифрогаз 2024
