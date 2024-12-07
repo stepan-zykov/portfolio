@@ -15,11 +15,11 @@
 # [Восстановление золота из руды](https://github.com/stepan-zykov/gold_recovery)
 Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Предоставлены данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
 
-# [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
-В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
-
 # [GAN, DLS (1-й семестр)](https://github.com/stepan-zykov/DLS/tree/main/GAN)
 Цель: обучить GAN генерировать лица людей и посмотреть на то, как можно оценивать качество генерации. В качестве обучающей выборки использована часть датасета Flickr Faces.
+
+# [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
+В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
 
 # [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
 Learning how to deploy ML projects: Flask, docker, GitHub Actions.
