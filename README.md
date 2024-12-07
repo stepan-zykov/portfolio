@@ -13,6 +13,7 @@
 Learning how to deploy ML projects: Flask, docker, GitHub Actions.
 
 # [Sign Language Detection](https://github.com/stepan-zykov/Sign_Language_Detection)
+Проект направлен на создание системы распознавания жестового языка в реальном времени с использованием Mediapipe, OpenCV и TensorFlow. Основной задачей является извлечение ключевых точек лица, тела и рук с их последующей обработкой в рекуррентной нейронной сети LSTM для классификации жестов.
 
 # [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
 
