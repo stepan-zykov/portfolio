@@ -3,6 +3,9 @@
 # [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
 Решение задачи хакатона Цифрогаз 2024
 
+# [Science-RAG](https://github.com/stepan-zykov/science-RAG)
+Проект по созданию RAG-системы, используя сервис YandexGPT API для работы с LLM и embedding моделью. В качестве веткорной БД использован сервис Upstash.
+
 # [RAG agent](https://github.com/stepan-zykov/RAG-with-local-LLM)
 Создание **(RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
 
