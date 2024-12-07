@@ -21,18 +21,18 @@
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
 В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
 
-# [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
-Learning how to deploy ML projects: Flask, docker, GitHub Actions.
-
-# [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
-Этот проект представляет собой серверное приложение, разработанное с использованием FastAPI, SQLAlchemy и Pydantic для создания безопасной и масштабируемой платформы для ведения блогов. 
-
 # [Классификация тональности комментариев](https://github.com/stepan-zykov/comments_classification)
 Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. Предоставлен набор данных с разметкой о токсичности правок.
 
 # [Определение температуры стали](https://github.com/stepan-zykov/steel_temperature)
 * Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали.
 * Цель: Построить модель, предсказывающую последнюю измеренную температуру по партии.
+
+# [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
+Learning how to deploy ML projects: Flask, docker, GitHub Actions.
+
+# [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
+Этот проект представляет собой серверное приложение, разработанное с использованием FastAPI, SQLAlchemy и Pydantic для создания безопасной и масштабируемой платформы для ведения блогов. 
 
 # [Анализ рынка компьютерных игр](https://github.com/stepan-zykov/computer_games)
 Интернет-магазин продаёт компьютерные игры. Доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
