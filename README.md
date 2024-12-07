@@ -16,6 +16,7 @@
 Learning how to deploy ML projects: Flask, docker, GitHub Actions.
 
 # [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
+Этот проект представляет собой серверное приложение, разработанное с использованием FastAPI, SQLAlchemy и Pydantic для создания безопасной и масштабируемой платформы для ведения блогов. 
 
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
 В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
