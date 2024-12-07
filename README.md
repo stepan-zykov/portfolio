@@ -3,6 +3,9 @@
 # [Gazprom-Hackathon](https://github.com/stepan-zykov/Gazprom-Hackathon)
 Решение задачи хакатона Цифрогаз 2024
 
+# [RAG agent](https://github.com/stepan-zykov/RAG-with-local-LLM)
+Создание **(RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
+
 # [Science-RAG](https://github.com/stepan-zykov/science-RAG)
 Проект по созданию RAG-системы, используя сервис YandexGPT API для работы с LLM и embedding моделью. В качестве векторной БД использован сервис Upstash.
 
@@ -11,9 +14,6 @@
 
 # [Восстановление золота из руды](https://github.com/stepan-zykov/gold_recovery)
 Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Предоставлены данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
-
-# [RAG agent](https://github.com/stepan-zykov/RAG-with-local-LLM)
-Создание **(RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
 
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
 В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
