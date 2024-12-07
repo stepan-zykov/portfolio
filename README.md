@@ -6,14 +6,14 @@
 # [Science-RAG](https://github.com/stepan-zykov/science-RAG)
 Проект по созданию RAG-системы, используя сервис YandexGPT API для работы с LLM и embedding моделью. В качестве векторной БД использован сервис Upstash.
 
+# [Sign Language Detection](https://github.com/stepan-zykov/Sign_Language_Detection)
+Проект направлен на создание системы распознавания жестового языка в реальном времени с использованием Mediapipe, OpenCV и TensorFlow. Основной задачей является извлечение ключевых точек лица, тела и рук с их последующей обработкой в рекуррентной нейронной сети LSTM для классификации жестов.
+
 # [RAG agent](https://github.com/stepan-zykov/RAG-with-local-LLM)
 Создание **(RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
 
 # [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
 Learning how to deploy ML projects: Flask, docker, GitHub Actions.
-
-# [Sign Language Detection](https://github.com/stepan-zykov/Sign_Language_Detection)
-Проект направлен на создание системы распознавания жестового языка в реальном времени с использованием Mediapipe, OpenCV и TensorFlow. Основной задачей является извлечение ключевых точек лица, тела и рук с их последующей обработкой в рекуррентной нейронной сети LSTM для классификации жестов.
 
 # [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
 
