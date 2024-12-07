@@ -9,14 +9,11 @@
 # [Sign Language Detection](https://github.com/stepan-zykov/Sign_Language_Detection)
 Проект направлен на создание системы распознавания жестового языка в реальном времени с использованием Mediapipe, OpenCV и TensorFlow. Основной задачей является извлечение ключевых точек лица, тела и рук с их последующей обработкой в рекуррентной нейронной сети LSTM для классификации жестов.
 
+# [Восстановление золота из руды](https://github.com/stepan-zykov/gold_recovery)
+Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Предоставлены данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
+
 # [RAG agent](https://github.com/stepan-zykov/RAG-with-local-LLM)
 Создание **(RAG)** агента с использованием **LangChain** и **LangGraph**, который работает в локальной среде. 
-
-# [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
-Learning how to deploy ML projects: Flask, docker, GitHub Actions.
-
-# [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
-Этот проект представляет собой серверное приложение, разработанное с использованием FastAPI, SQLAlchemy и Pydantic для создания безопасной и масштабируемой платформы для ведения блогов. 
 
 # [AutoEncoder (VAE, CVAE), DLS (1-й семестр)](https://github.com/stepan-zykov/AutoEncoder-DLS-1-)
 В ходе работы были построены три автоенкодера: обычные AE, вариационный и вариационный с подачей меток классов (conditional). Использованы датасеты LWF Face Dataset и MNIST.
@@ -24,8 +21,11 @@ Learning how to deploy ML projects: Flask, docker, GitHub Actions.
 # [GAN, DLS (1-й семестр)](https://github.com/stepan-zykov/DLS/tree/main/GAN)
 Цель: обучить GAN генерировать лица людей и посмотреть на то, как можно оценивать качество генерации. В качестве обучающей выборки использована часть датасета Flickr Faces.
 
-# [Восстановление золота из руды](https://github.com/stepan-zykov/gold_recovery)
-Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Предоставлены данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
+# [Boston house pricing prediction](https://github.com/stepan-zykov/Boston_house_pricing)
+Learning how to deploy ML projects: Flask, docker, GitHub Actions.
+
+# [FastAPI Blog posting web service](https://github.com/stepan-zykov/FastAPI-A-python-framework-Full-Course/tree/main)
+Этот проект представляет собой серверное приложение, разработанное с использованием FastAPI, SQLAlchemy и Pydantic для создания безопасной и масштабируемой платформы для ведения блогов. 
 
 # [Классификация тональности комментариев](https://github.com/stepan-zykov/comments_classification)
 Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Необходимо обучить модель классифицировать комментарии на позитивные и негативные. Предоставлен набор данных с разметкой о токсичности правок.
